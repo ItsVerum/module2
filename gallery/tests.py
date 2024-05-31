@@ -9,3 +9,4 @@ class CategoryModelTest(TestCase):
         self.assertEqual(category.name, "Test Category")
         self.assertEqual(str(category), "Test Category")
 
+
